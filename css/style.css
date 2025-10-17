@@ -64,6 +64,9 @@ body {
   color: #333;
   padding: 20px;
 }
+img{
+  display: none;
+}
 
 .resume-container {
   max-width: 900px;
@@ -97,7 +100,7 @@ body {
 }
 
 .resume-section {
-  margin-bottom: 30px;
+  margin-bottom: 50px;
 }
 
 .resume-section h2 {
